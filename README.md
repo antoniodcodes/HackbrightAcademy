@@ -1,7 +1,7 @@
 # Hackbright Academy #
 This repository will serve to document my projects and my progression as an aspiring software engineer
 
-## Stack ##
+## Software Stack ##
 Hackbright uses Python and Flask on the backend and HTML, CSS, and JavaScript on the front end
 
 ## Lessons ##
